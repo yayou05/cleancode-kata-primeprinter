@@ -31,6 +31,8 @@ Activity 2
 
 - Move PrimePrinterHelper class to top level
 
+
+
 Activity 3
 
 - M to numberOfPrimes - introduce field, 
